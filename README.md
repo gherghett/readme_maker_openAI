@@ -16,8 +16,8 @@ This README.md was made with readme_maker (but also manually fixed)
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/gherghett/readme_maker_openAI/
+   cd readme_maker_openAI
    ```
 
 2. **Install dependencies:**
