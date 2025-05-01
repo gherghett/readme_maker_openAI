@@ -1,0 +1,5 @@
+venv
+.venv
+key.txt
+.env
+readme_maker/quickstart.py
