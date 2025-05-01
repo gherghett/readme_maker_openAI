@@ -1,6 +1,6 @@
 # README Maker
 
-This project is a fun tool to generate a `README.md` for a programming project using OpenAI's API. It analyzes the file structure and content to produce a neatly formatted and informative readme.
+This is a fun project, a CLI-tool to generate a `README.md` for a programming project using OpenAI's API. It analyzes the file structure and content to produce a neatly formatted and informative readme.
 
 This README.md was made with readme_maker (but also manually fixed)
 
