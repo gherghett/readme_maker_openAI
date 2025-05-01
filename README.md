@@ -11,7 +11,7 @@ This README.md was made with readme_maker (but also manually fixed)
 - Integrates `.gitignore` to exclude specified files.
 - Provides CLI for ease of use.
 
-## Installation
+### Setup Instructions
 
 1. **Clone the repository:**
 
@@ -20,13 +20,20 @@ This README.md was made with readme_maker (but also manually fixed)
    cd readme_maker_openAI
    ```
 
-2. **Install dependencies:**
+2. **Create and activate a virtual environment (recommended):**
 
-   Make sure you have Python installed, then run:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. **Install dependencies:**
 
    ```bash
    pip install -r requirements.txt
    ```
+
+---
 
 ## Usage
 
