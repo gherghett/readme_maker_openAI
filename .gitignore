@@ -3,3 +3,4 @@ venv
 key.txt
 .env
 readme_maker/quickstart.py
+__pycache__
