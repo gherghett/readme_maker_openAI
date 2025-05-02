@@ -10,10 +10,13 @@ This README.md was made with readme_maker (but also manually fixed)
 - Scans directory structure and file content.
 - Integrates `.gitignore` to exclude specified files.
 - Provides CLI for ease of use.
+  
+![reademe_maker drawio (1)](https://github.com/user-attachments/assets/cef00335-8bda-4eba-ad10-6f5a7ff47da8)
 
 ### Setup Instructions
 
 1. **Clone the repository:**
+
 
    ```bash
    git clone https://github.com/gherghett/readme_maker_openAI/
