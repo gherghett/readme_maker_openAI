@@ -11,7 +11,7 @@ This README.md was made with readme_maker (but also manually fixed)
 - Integrates `.gitignore` to exclude specified files.
 - Provides CLI for ease of use.
   
-![reademe_maker drawio (1)](https://github.com/user-attachments/assets/cef00335-8bda-4eba-ad10-6f5a7ff47da8)
+  ![readme](https://github.com/user-attachments/assets/c2ef2d70-1eea-4ffe-bd35-ccf60140c73b)
 
 ### Setup Instructions
 
